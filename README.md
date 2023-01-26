@@ -148,4 +148,4 @@ Great responses will additionally:
 - [x] Make and save a nice picture in `firstname_lastname_variant.png`
 - [x] Answer the questions in `context-free.md`
 - [x] Submit your work
-- [ ] Comment on your critique partner's work
+- [x] Comment on your critique partner's work
